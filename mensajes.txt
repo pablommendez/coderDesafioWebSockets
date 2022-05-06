@@ -1,0 +1,22 @@
+[
+  {
+    "mail": "asdasd",
+    "message": "asd",
+    "id": 1
+  },
+  {
+    "mail": "asd",
+    "message": "asd",
+    "id": 2
+  },
+  {
+    "mail": "asdasd",
+    "message": "asdasd",
+    "id": 3
+  },
+  {
+    "mail": "asd@asd.com",
+    "message": "asdasd",
+    "id": 4
+  }
+]
